@@ -4,3 +4,7 @@ body{
 h1{
 	text-align: center;
 }
+hr{
+	border-style:dotted;
+	font-size:3px;
+}
